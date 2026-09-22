@@ -79,3 +79,7 @@ omarchy theme set "Roman Republic"
 ## License
 
 MIT — see [LICENSE](LICENSE). Artwork and logos © Moon Studios & Private Division.
+
+---
+
+> This theme was made with the [omarchy-theme-skill](https://github.com/hongyangchun/omarchy-theme-skill) - the pipeline that sources art, builds palettes and ships the repo.
